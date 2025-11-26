@@ -1,53 +1,66 @@
-<h1 align="center">Olá, eu sou a Aurea Ferreira ✨👋</h1>
-<h3 align="center">Desenvolvedora e estudante apaixonada por tecnologia e código limpo.</h3>
+Olá! Eu sou a Aurea Ferreira ✨👋
+<p align="center"> 💻 Desenvolvedora e estudante apaixonada por tecnologia e código limpo<br> 🚀 Atualmente focada em construir soluções eficientes com as melhores práticas de mercado<br> 🌟 Transformando café em código, um commit de cada vez </p><div align="center">
+https://github-readme-stats.vercel.app/api?username=AureaFerreira&show_icons=true&theme=radical&hide_border=true&include_all_commits=true
+https://github-readme-stats.vercel.app/api/top-langs/?username=AureaFerreira&layout=compact&theme=radical&hide_border=true&langs_count=8
 
----
+</div>
+🛠️ Tech Stack & Habilidades
+💻 Linguagens de Programação
+<div align="center">
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AureaFerreira&show_icons=true&theme=dark&include_all_commits=true&hide_border=true&border_radius=10" alt="Estatísticas do GitHub da Aurea Ferreira" />
-</p>
+</div>
+🎨 Frontend & Frameworks
+<div align="center">
+https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black
+https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
+https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AureaFerreira&layout=compact&langs_count=8&theme=dark&hide_border=true&border_radius=10" alt="Linguagens mais usadas pela Aurea Ferreira" />
-</p>
+</div>
+🗄️ Banco de Dados & Ferramentas
+<div align="center">
+https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
+https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white
+https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AureaFerreira&theme=dark&hide_border=true&border_radius=10" alt="GitHub Streak da Aurea Ferreira" />
-</p>
+</div>
+📈 GitHub Analytics
+<div align="center">
+https://github-readme-streak-stats.herokuapp.com/?user=AureaFerreira&theme=radical&hide_border=true
 
----
+https://github-readme-activity-graph.vercel.app/graph?username=AureaFerreira&theme=react-dark&hide_border=true&area=true
 
-<h2 align="center">🛠️ Minhas Principais Habilidades</h2>
+</div>
+🌟 Projetos em Destaque
+<div align="center">
+🚀 Projeto Incrível	⚡ App Revolucionário	🎯 Solução Inteligente
+Descrição breve do projeto	Descrição breve do projeto	Descrição breve do projeto
+https://img.shields.io/badge/React-Next.js-blue	https://img.shields.io/badge/Node.js-Express-green	https://img.shields.io/badge/Python-Django-red
+</div>
+📫 Vamos nos conectar!
+<div align="center">
+https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white
+https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-</p>
+</div>
+<div align="center">
+💫 "Código é poesia, tecnologia é arte"
+⭐ Desde que você visitou meu perfil, obrigada! ⭐
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
-</p>
+https://github.com/AureaFerreira/AureaFerreira/blob/output/github-contribution-grid-snake.svg
 
----
+</div>
+Última atualização: 🗓️ ${new Date().toLocaleDateString('pt-BR')}
 
-<h2 align="center">📬 Conecte-se Comigo</h2>
+<div align="center">
+https://komarev.com/ghpvc/?username=AureaFerreira&color=dc143c&style=flat-square
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/aurea-ferreira/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn da Aurea Ferreira"/>
-  </a>
-  <a href="https://github.com/AureaFerreira" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub da Aurea Ferreira"/>
-  </a>
-  </p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/LmN8Xc2Zg5y2rS1mK5/giphy.gif" alt="GIF animado de código" width="300"/>
-</p>
+</div>
