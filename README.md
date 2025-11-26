@@ -1,15 +1,15 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=742ADB&height=120&section=header"/>
+
 <h1 align="center">👋 Seja Bem-Vinda(o) ao Meu Espaço Digital! 👋</h1>
 <h1 align="center">Olá, eu sou a Aurea Ferreira ✨🌸</h1>
 <h3 align="center">Desenvolvedora e estudante apaixonada por tecnologia e código limpo, buscando criar soluções inovadoras com um toque de criatividade! Vamos codificar um futuro incrível? 🚀</h3>
 
 ---
 
-<p align="center">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AureaFerreira&theme=nord&hide_border=true&border_radius=10" alt="GitHub Streak" />
-</p>
+<div align="center">  
+    <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AureaFerreira&show_icons=true&bg_color=00000000&ring_color=742ADB&text_color=4FC08D&title_color=742ADB&icon_color=4FC08D&include_all_commits=true" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AureaFerreira&layout=compact&show_icons=true&bg_color=00000000&ring_color=742ADB&text_color=4FC08D&title_color=742ADB&icon_color=4FC08D"/>
+</div>
 
 ---
 
@@ -46,4 +46,10 @@
 
 ---
 
-<h3 align="center">Feito com ☕ e muito código. Obrigada pela visita! 😊</h3>
+<div align="center">
+<br><p align="centre"><b>Contagem de Visitantes</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{AureaFerreira}/count.svg" /></p> 
+<br>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=742ADB&height=120&section=footer"/>
