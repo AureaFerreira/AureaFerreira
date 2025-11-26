@@ -4,11 +4,6 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AureaFerreira&show_icons=true&theme=nord&include_all_commits=true&hide_border=true&border_radius=10" alt="Estatísticas do GitHub" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AureaFerreira&layout=compact&langs_count=8&theme=nord&hide_border=true&border_radius=10" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
