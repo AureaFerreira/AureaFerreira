@@ -4,15 +4,15 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AureaFerreira&show_icons=true&theme=nord&include_all_commits=true&hide_border=true&border_radius=10" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AureaFerreira&show_icons=true&theme=nord&include_all_commits=true&hide_border=true&border_radius=10" alt="Estatísticas do GitHub da Aurea Ferreira" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AureaFerreira&layout=compact&langs_count=8&theme=nord&hide_border=true&border_radius=10" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AureaFerreira&layout=compact&langs_count=8&theme=nord&hide_border=true&border_radius=10" alt="Linguagens mais usadas pela Aurea Ferreira" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AureaFerreira&theme=nord&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AureaFerreira&theme=nord&hide_border=true&border_radius=10" alt="GitHub Streak da Aurea Ferreira" />
 </p>
 
 ---
@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
 <p align="center">
