@@ -1,5 +1,6 @@
+<h1 align="center">👋 Seja Bem-Vinda(o) ao Meu Espaço Digital! 👋</h1>
 <h1 align="center">Olá, eu sou a Aurea Ferreira ✨🌸</h1>
-<h3 align="center">Desenvolvedora e estudante apaixonada por tecnologia e código limpo, buscando criar soluções inovadoras com um toque de criatividade!</h3>
+<h3 align="center">Desenvolvedora e estudante apaixonada por tecnologia e código limpo, buscando criar soluções inovadoras com um toque de criatividade! Vamos codificar um futuro incrível? 🚀</h3>
 
 ---
 
@@ -12,7 +13,8 @@
 
 ---
 
-<h2 align="center">🛠️ Minhas Principais Habilidades</h2>
+<h2 align="center">🛠️ Minhas Ferramentas Favoritas e Habilidades</h2>
+<h4 align="center">Explorando e construindo soluções com as seguintes tecnologias:</h4>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -30,7 +32,8 @@
 
 ---
 
-<h2 align="center">📬 Conecte-se Comigo</h2>
+<h2 align="center">💖 Vamos Nos Conectar?</h2>
+<h4 align="center">Sinta-se à vontade para me mandar uma mensagem! Adoraria trocar ideias sobre código, projetos e o universo tech.</h4>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aurea-ferreira/" target="_blank">
@@ -44,5 +47,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Qk4KtJdI6cTS/giphy.gif" alt="GIF animado de uma garota programando e celebrando" width="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2JqdjZ1c2RieWk4cWV4dWQ2d3h6MGl6cWFscXRzYWRocnN1MmJ6ZiZlcD12MV9pbnRlcm5hbF9naWYmY3Q9Zw/L5oP4sNfE3L4XoIe4f/giphy.gif" alt="GIF animado de uma garota sorrindo em um computador, com corações ao redor" width="300"/>
 </p>
+
+<h3 align="center">Feito com ☕ e muito código. Obrigada pela visita! 😊</h3>
