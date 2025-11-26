@@ -46,8 +46,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2JqdjZ1c2RieWk4cWV4dWQ2d3h6MGl6cWFscXRzYWRocnN1MmJ6ZiZlcD12MV9pbnRlcm5hbF9naWYmY3Q9Zw/L5oP4sNfE3L4XoIe4f/giphy.gif" alt="GIF animado de uma garota sorrindo em um computador, com corações ao redor" width="300"/>
-</p>
-
 <h3 align="center">Feito com ☕ e muito código. Obrigada pela visita! 😊</h3>
